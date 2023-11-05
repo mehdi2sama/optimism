@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = {gtfj
   $schema: 'http://json.schemastore.org/prettierrc',
   plugins: ['prettier-plugin-solidity'],
   trailingComma: 'es5',
